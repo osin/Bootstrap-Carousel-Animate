@@ -1,0 +1,33 @@
+/*
+ * Bootstrap Carousel Animate CSS Example 1.0
+ * https://github.com/blueimp/Bootstrap-Carousel-Animate
+ *
+ * Copyright 2012, Sebastian Tschan
+ * https://blueimp.net
+ *
+ * Licensed under the MIT license:
+ * http://www.opensource.org/licenses/MIT
+ */
+
+body {
+  margin: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+  color: #333333;
+  background-color: #ffffff;
+}
+
+a {
+  color: #0088cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#carousel {
+  width: 854px;
+  margin: auto;
+}

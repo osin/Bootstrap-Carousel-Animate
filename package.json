@@ -1,0 +1,39 @@
+{
+    "name": "bootstrap-carousel-animate",
+    "version": "1.0.0",
+    "title": "Bootstrap Carousel Animate",
+    "description": "Bootstrap Carousel Animate is an extension to the Carousel plugin of Twitter's Bootstrap toolkit. It provides a jQuery animate fallback for browsers without support for CSS transitions and also adjusts and animates the carousel height for different item heights.",
+    "keywords": [
+        "bootstrap",
+        "carousel",
+        "animate",
+        "slide",
+        "transition"
+    ],
+    "homepage": "https://github.com/blueimp/Bootstrap-Carousel-Animate",
+    "author": {
+        "name": "Sebastian Tschan",
+        "url": "https://blueimp.net"
+    },
+    "maintainers": [
+        {
+            "name": "Sebastian Tschan",
+            "url": "https://blueimp.net"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/blueimp/Bootstrap-Carousel-Animate.git"
+    },
+    "bugs": "https://github.com/blueimp/Bootstrap-Carousel-Animate/issues",
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/MIT"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.7",
+        "bootstrap": ">=2.0.4"
+    }
+}
